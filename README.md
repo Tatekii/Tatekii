@@ -1,5 +1,5 @@
 # 👋Hola
-FE developer in shenzhen China (working on fullstack...)
+FE developer in shenzhen China 
 
 reach me for fun~~🏖️
 
